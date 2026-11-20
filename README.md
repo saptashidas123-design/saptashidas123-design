@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Saptashi Das 👋
 
-<!--
-**saptashidas123-design/saptashidas123-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 2nd-year **B.Tech Computer Science (AI & ML)** student passionate about problem-solving, software development, and machine learning. I am currently building strong foundations in Data Structures, Algorithms, and core programming.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Currently Working On
+- Solving daily Data Structures & Algorithms problems on **LeetCode**
+- Building beginner-friendly **Python & AI/ML** mini-projects
+- Strengthening core computer science fundamentals (C, Python, OOPs)
+
+#### 🛠️ Tech Stack & Tools
+- **Languages:** C, Python, SQL
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook
+- **Focus Areas:** Data Structures & Algorithms, Machine Learning Basics
+
+#### 📫 Connect With Me
+- **LinkedIn:** [https://leetcode.com/u/saptashi-das]
+- **Email:** [saptashidas123@gmail.com]
